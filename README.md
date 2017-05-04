@@ -7,7 +7,7 @@ To add more than one interval of count down timer in one page, so I'm use a glob
 # Usage
 
 the usage is very easy
- ## arguments 
+ ## Arguments 
  
  * id: this is a what you want make one timer indentify, and also use to clear it.
  * options 
@@ -18,7 +18,7 @@ the usage is very easy
  
  
  
- ## example
+ ## Example
   ```javascript
   <script>
    $("#countdown").TimerTick(@item.OrderNo,
@@ -31,5 +31,5 @@ the usage is very easy
   </script>
   ```
 
-# next step
+# Next
 as we know, this is a part-time achievement, but i'm still to complete it's function. And I also has some confused about concepts of js(closure, this scope， etc.)
