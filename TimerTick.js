@@ -3,7 +3,7 @@
  * @description ：code a timer, has a count down effec;
  * @version v0.0.1
  * @author winleechina@gmail.com
- * @see http:
+ * @see https://github.com/winlee/jQuery.fn.TimerTick
  */
 //Make sure jQuery has been loaded before TimerTick.js
 if (typeof jQuery === "undefined") {
